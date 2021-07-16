@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3ceaf0a7-9d25-446c-93f8-cd85992fd82e/resourceGroups/hello-cloud/providers/Microsoft.Web/sites/hello-cloud-kenneth",
+    "appService.deploySubpath": "hello-restfulapi"
+}
